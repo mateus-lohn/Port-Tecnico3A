@@ -1,0 +1,85 @@
+package com.example.geometria;
+
+import androidx.appcompat.app.AppCompatActivity;
+
+import android.os.Bundle;
+import android.view.View;
+import android.widget.EditText;
+import android.widget.TextView;
+
+public class TelaConta extends AppCompatActivity {
+
+    static int conta;
+    EditText et1, et2, et3;
+    TextView r;
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        setContentView(R.layout.activity_tela_conta);
+        getSupportActionBar().hide();
+        et1 = findViewById(R.id.et1);
+        et2 = findViewById(R.id.et2);
+        et3 = findViewById(R.id.et3);
+        r = findViewById(R.id.resultado);
+        atualizaTela();
+    }
+
+    public void atualizaTela() {
+        if (conta == 1) {
+            et1.setHint("Área da base");
+            et2.setHint("Número de faces");
+            et3.setHint("Área da face");
+        }
+        else if (conta == 2) {
+            et1.setHint("Área Total");
+            et2.setHint("Número de faces");
+            et3.setHint("Área da face");
+        }
+        else if (conta == 3) {
+            et1.setHint("Volume");
+            et2.setHint("Altura");
+            et3.setVisibility(View.INVISIBLE);
+        }
+
+        else if (conta == 4) {
+            et1.setHint("Área Total");
+            et2.setHint("Área da Base");
+            et3.setHint("Área da face");
+        }
+
+        else if (conta == 5) {
+            et1.setHint("Área Total");
+            et2.setHint("Área da Base");
+            et3.setHint("Número de faces");
+        }
+
+        else if (conta == 6) {
+            et1.setHint("Área da base");
+            et2.setHint("altura");
+            et3.setVisibility(View.INVISIBLE);
+        }
+
+        else if (conta == 7) {
+                            et1.setHint("Área da base");
+                            et2.setHint("Volume");
+                            et3.setVisibility(View.INVISIBLE);
+                        }
+                    }
+                    public void calculo (View alberto){
+        double a= Double.parseDouble(et1.getText().toString());
+                        double b = Double.parseDouble(et2.getText().toString());
+                                double c;
+        switch (conta){
+            case 1:
+                c =Double.parseDouble(et3.getText().toString());
+                        double calc = 2 * a + b * c;
+                r.setText(calc + "");
+            case 2:
+                c = Double.parseDouble(et3.getText().toString());
+                calc = (a-b*c)/2;
+                r.setText(calc + "");
+
+                    }
+                }
+                }
