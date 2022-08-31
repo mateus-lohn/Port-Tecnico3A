@@ -22,5 +22,4 @@ Nivel de inglês: Intermediário
 - [25/03](ModelagemSistema/Aula%202503.png) 
 
 ### Aplicativo feito no 2 trimestre!
-- [Unsmoke](https://github.com/lucasmalfatti/Unsmoke) 
-- aplicativo que mostra oque você fuma e os efeitos colaterais!
+- [Unsmoke](https://github.com/lucasmalfatti/Unsmoke) aplicativo que mostra oque você fuma e os efeitos colaterais!
