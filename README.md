@@ -26,3 +26,6 @@ Nivel de inglês: Intermediário
 
 ### Aplicativo de barbearia desenvolvido por mim no 3 Trimestre!
 - [Bela.zip](https://github.com/mateus-lohn/Port-Tecnico3A/files/10045833/Bela.zip) Aplicativo no qual voce marca seu corte, compra produtos  de barbearia e realiza seu pagamento tudo em poucos clicks!
+
+### Autoria 3 Trimestre!
+- https://github.com/mateus-lohn/Port-Tecnico3A/blob/main/README.md foi um aplicativo desenvolvido por mim em meu tempo livre, um sistema de petshop no qual vc marca consultas e banho/tosagem.
