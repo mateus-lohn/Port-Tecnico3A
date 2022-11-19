@@ -23,3 +23,6 @@ Nivel de inglês: Intermediário
 
 ### Aplicativo feito no 2 trimestre!
 - [Unsmoke](https://github.com/lucasmalfatti/Unsmoke) aplicativo que mostra oque você fuma e os efeitos colaterais!
+
+### Aplicativo de barbearia desenvolvido por mim no 3 Trimestre!
+- [Bela.zip](https://github.com/mateus-lohn/Port-Tecnico3A/files/10045833/Bela.zip)
