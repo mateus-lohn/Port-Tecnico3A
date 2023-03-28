@@ -21,10 +21,10 @@ Nivel de inglês: Intermediário
 - [25/02](ModelagemSistema/Aula%2025_02.png)
 - [25/03](ModelagemSistema/Aula%202503.png) 
 
-### Aplicativo feito no 2 trimestre!
+### Softweare feito por mim no 2 trimestre!
 - [Unsmoke](https://github.com/lucasmalfatti/Unsmoke) aplicativo que mostra oque você fuma e os efeitos colaterais!
 
-### Aplicativo de barbearia desenvolvido por mim no 3 Trimestre!
+### Software de barbearia desenvolvido por mim no 3 Trimestre!
 - [Bela.zip](https://github.com/mateus-lohn/Port-Tecnico3A/files/10045833/Bela.zip) Aplicativo no qual voce marca seu corte, compra produtos  de barbearia e realiza seu pagamento tudo em poucos clicks!
 
 ### Autoria 3 Trimestre!
