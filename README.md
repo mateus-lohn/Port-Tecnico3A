@@ -1,4 +1,4 @@
-# Port-Tecnico3A
+# Port-Tecnico
 
 ## Mateus Rachadel Lohn
 Meu nome é Mateus Rachadel Lohn, tenho 17 anos, estudo sistemas da informação na unisul e ja fiz 2 anos e meio de curso tecnico(tecnico em desenvolvimento de sistemas), eu decidi fazer esse curso pois decidi que isso seria muito importante para o meu futuro,tambem quero de trabalhar com algo relativo pois sou apaixonado na area da programação.
